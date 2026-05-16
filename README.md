@@ -46,14 +46,20 @@ Java project implementing OOP principles.
 
 ---
 
+
 ## 📫 Let's Connect
 
+I'm always open to interesting conversations, collaboration opportunities, and connecting with fellow developers. Feel free to reach out!
+
 <p>
-<a href="https://www.linkedin.com/in/menna-shiref-79b196349?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="PUT_YOUR_LINKEDIN_LINK_HERE">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
