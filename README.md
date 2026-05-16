@@ -1,46 +1,63 @@
 
+<h1 align="center">Hi 👋, I'm Menna Sherif</h1>
+<h3 align="center">Computer & Communications Engineering Student</h3>
+
+<p align="center">
+Passionate about building practical software solutions and learning through hands-on projects.Currently strengthening my skills in Java and C, with a strong interest in Backend Development and Software Engineering
   
-# Hi, I'm Menna Sherif
+</p>
 
-### Computer & Communications Engineering Student  
-Passionate about building practical software solutions and learning through hands-on projects.  
-Currently strengthening my skills in Java, c, and data structure, with a strong interest in Backend Development and Software Engineering.
+---
 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/menna-shiref-79b196349?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+## 👩‍💻 Programming Languages
 
+<p>
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
+</p>
 
-## Programming Languages
-
-- Java
-- C
-- python
-
-
-
-## Core Skills
+## 🧠 Core Skills
 
 - Object-Oriented Programming (OOP)
-- Data Structures
+- Data Structuress
 - Problem Solving
 
 ---
 
-## Featured Projects
-
-### Sudoku Game (Java)
-GUI-based Sudoku game with verification, difficulty levels, solver, and undo functionality.
-
-
-
-
-## Currently Learning
+## 🚀 Currently Learning
 
 - Backend Development
+- Databases
 - Software Design Principles
-- Data structure 
 
+---
 
+## 📌 Featured Projects
 
-## My Projects
+### 🔹 Sudoku Game
+Java-based Sudoku game with GUI, verification, solver, and undo support.
 
-Check out my repositories below 👇
+### 🔹 Student Management System
+Java Swing application for managing student records.
+
+### 🔹 Inventory Management System
+Java project implementing OOP principles.
+
+---
+
+## 📫 Let's Connect
+
+<p>
+<a href="https://www.linkedin.com/in/menna-shiref-79b196349?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mennashirefE&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mennashiref&layout=compact)
