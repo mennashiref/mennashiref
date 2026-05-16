@@ -37,9 +37,11 @@ Passionate about building practical software solutions and learning through hand
 
 ### 🔹 Sudoku Game
 Java-based Sudoku game with GUI, verification, solver, and undo support.
+https://github.com/HvzemEssvm/SudokuVerifier.git
 
 ### 🔹 Student Management System
 Java Swing application for managing student records.
+https://github.com/Zeyad-Hassan-1/Student_Management_System.git
 
 ### 🔹 Inventory Management System
 Java project implementing OOP principles.
