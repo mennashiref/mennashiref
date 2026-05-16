@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**mennashiref/mennashiref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+# Hi, I'm Menna Sherif
 
-Here are some ideas to get you started:
+### Computer & Communications Engineering Student  
+Passionate about building practical software solutions and learning through hands-on projects.  
+Currently strengthening my skills in Java, c, and data structure, with a strong interest in Backend Development and Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/menna-shiref-79b196349?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+
+## Programming Languages
+
+- Java
+- C
+- python
+
+
+
+## Core Skills
+
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Problem Solving
+
+---
+
+## Featured Projects
+
+### Sudoku Game (Java)
+GUI-based Sudoku game with verification, difficulty levels, solver, and undo functionality.
+
+
+
+
+## Currently Learning
+
+- Backend Development
+- Software Design Principles
+- Data structure 
+
+
+
+## My Projects
+
+Check out my repositories below 👇
