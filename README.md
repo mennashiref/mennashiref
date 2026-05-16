@@ -45,6 +45,7 @@ https://github.com/Zeyad-Hassan-1/Student_Management_System.git
 
 ### 🔹 Inventory Management System
 Java project implementing OOP principles.
+https://github.com/HvzemEssvm/OOP-G1-S1.git
 
 ---
 
